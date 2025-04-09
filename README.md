@@ -1,2 +1,4 @@
-# petprojects
-Contains pet projects
+# Pet projects
+Здесь содержатся пэт проекты
+
+Более подробное описание будет потом... (возможно)
